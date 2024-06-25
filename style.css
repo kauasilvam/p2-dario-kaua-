@@ -2,7 +2,7 @@
     --cor-de-fundo: #EBECEE;
     --cor-cabecalho: rgb(163, 152, 91);
     --cor-fonte: #2b0036;
-    --degrade: linear-gradient(97.54deg, #002f52 35.49%, #26587c 165.37%);
+    --degrade: linear-gradient(97.54deg, #353535 35.49%, #4d4d4d 165.37%);
     --branco: white;
 }
 body{ /*estilizacao do corpo da pagina*/
