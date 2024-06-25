@@ -1,8 +1,8 @@
 :root{ /*definir variaveis de cor*/
     --cor-de-fundo: #EBECEE;
-    --cor-cabecalho: rgb(246, 187, 155);
+    --cor-cabecalho: rgb(163, 152, 91);
     --cor-fonte: #2b0036;
-    --degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --degrade: linear-gradient(97.54deg, #002f52 35.49%, #26587c 165.37%);
     --branco: white;
 }
 body{ /*estilizacao do corpo da pagina*/
@@ -21,7 +21,7 @@ body{ /*estilizacao do corpo da pagina*/
 .cabecalho-menu{ /*estilizacao do span no cabecalho*/
     width: 24px; /*largura*/
     height: 24px;/*altura*/
-    background-color: rgb(240, 138, 4); /*cor de fundo*/
+    background-color: rgb(168, 168, 168); /*cor de fundo*/
     display: inline-block; /*alinhar os elementos em linha*/
     background-repeat: no-repeat;
     background-position: center;
